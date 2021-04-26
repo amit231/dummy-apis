@@ -1,0 +1,30 @@
+[
+  {
+    "location": "Pflugerville, TX (78660)",
+    "clientType": "Buyer/Seller",
+    "timeFrame": "! 3-6 months",
+    "distance": "20-25 miles",
+    "budget": "$280,000",
+    "timeStamp": 1620913835,
+    "alerts": [
+      {
+        "type": "red warning",
+        "text": "This Lead has expired"
+      }
+    ]
+  },
+  {
+    "location": "Pflugerville, TX (78660)",
+    "clientType": "Buyer",
+    "timeFrame": "!! As Soon As Possible",
+    "distance": "20-25 miles",
+    "budget": "$280,000",
+    "timeStamp": 1620913835,
+    "alerts": [
+      {
+        "type": "red warning",
+        "text": "This Lead has expired"
+      }
+    ]
+  }
+]

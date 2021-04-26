@@ -1,0 +1,21 @@
+{
+  "location": {
+    "originZIP": 78754,
+    "mileRadius": 15
+  },
+  "priceRange": {
+    "min": "60k",
+    "max": "none",
+    "includeUnknownBudgets": true
+  },
+  "clientTypeSettings": {
+    "Buyer/Seller": true,
+    "Buyer": true,
+    "Seller": true,
+    "Investor": true
+  },
+  "propertyTypeSettings": {
+    "Resedential": true,
+    "Land": true
+  }
+}

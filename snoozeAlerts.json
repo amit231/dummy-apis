@@ -1,0 +1,11 @@
+{
+  "snooze": true,
+  "options": {
+    "1 Hour": false,
+    "2 Hour": false,
+    "4 Hour": false,
+    "8 Hour": false,
+    "24 Hour": true,
+    "1 Week": false
+  }
+}

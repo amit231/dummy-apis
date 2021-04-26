@@ -1,0 +1,12 @@
+{
+  "location": {
+    "originZIP": 78754,
+    "mileRadius": 15
+  },
+  "priceRange": {
+    "min": "60k",
+    "max": "none",
+    "includeUnknownBudgets": true
+  },
+  "referralPercentage": 50
+}

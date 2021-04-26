@@ -1,0 +1,6 @@
+{
+  "options": {
+    "mobilePush": true,
+    "SMS/Text": false
+  }
+}
